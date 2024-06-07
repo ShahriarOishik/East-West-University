@@ -2,9 +2,9 @@
 
 
 ## Semester 1
-- CSE103 - Structured Programming by <b>Dr. Hasan Mamood Aminul Islam(DHMAI)</b>
-- MAT101 - Differential and Integral Calculus by Sahidul Islam (SIS)
-- ENG101 - Basic English by Afia Mursheeda(AFIA)
+- CSE103 - Structured Programming by <b>Dr. Hasan Mamood Aminul Islam<i>(DHMAI)</i></b>
+- MAT101 - Differential and Integral Calculus by <b>Sahidul Islam <i>(SIS)</i></b>
+- ENG101 - Basic English by <b>Afia Mursheeda<i>(AFIA)</i></b>
 
 ## Semester 2
 - CSE110 - Object Oriented Programming by Ahmed Abdal Shafi Rasel (AASR)
