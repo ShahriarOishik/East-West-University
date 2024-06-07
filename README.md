@@ -2,7 +2,7 @@
 
 
 ## Semester 1
-- CSE103 - Structured Programming by Dr. Hasan Mamood Aminul Islam(DHMAI)
+- CSE103 - Structured Programming by <b>Dr. Hasan Mamood Aminul Islam(DHMAI)</b>
 - MAT101 - Differential and Integral Calculus by Sahidul Islam (SIS)
 - ENG101 - Basic English by Afia Mursheeda(AFIA)
 
