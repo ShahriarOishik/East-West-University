@@ -12,3 +12,7 @@
 - CHE109 - <b>Engineering Chemistry-I</b> by <i>Dr. Nazmul Abedin Khan <b>(DNAK)</b></i>
 - PHY109 - <b>Engineering Physics-I</b> by <i>Dr. Sonia Akter Ema<b>(DSAE)</b></i>
 - CSE-106 - <b>Discrete Mathematics</b> by <i>Md. Al-Imran<b>(IMRAN)</b></i>
+
+## Semester 3
+- CSE200 - <b>Computer-Aided Engineering Drawing</b> by <i>Sadika Sneha<b>(SDIS)</b></i>
+- MAT102 - <b>Differential Equation and Special Function</b> by <i>Trishna Datta<b>(TD)</b></i>
